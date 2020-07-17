@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu1"
+        android:icon="@drawable/ic_baseline_emoji_emotions_24red"
+        android:title="배경색바꾸기"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu2"
+        android:icon="@drawable/ic_baseline_emoji_emotions_24yellow"
+        android:title="배경색노랑"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu3"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="치킨"
+        app:showAsAction="always" />
+</menu>
